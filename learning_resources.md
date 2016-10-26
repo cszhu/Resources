@@ -146,6 +146,9 @@
   A similar game for learning how to align flexboxes using CSS.
 * [Magic of CSS by Adam Schwartz](http://adamschwartz.co/magic-of-css/)  
   A CSS course that demystifies some concepts of CSS.
+* [Intro Personal Website with Drake](https://docs.google.com/a/ucdavis.edu/presentation/d/1DYGKsIaQq-PEQfCDSyScairnBDjH3w7THbnnKi8K5WQ/edit?usp=sharing)  
+  A super simple intro to how to set up your own personal website using Github Pages with Drake. Designed for people with no previous web dev experience.
+
 
 ### UI Design, Product Design, and UX
 * [Open Web BU's Resource Page](http://openwebbu.org/resources)  
